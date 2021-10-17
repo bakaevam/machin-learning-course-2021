@@ -1,1 +1,1 @@
-# machin-learning-course-2021
+# machine-learning-course-2021
